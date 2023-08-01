@@ -32,7 +32,7 @@ To run the project, you need the following installed:
 
 #### Frontend:
 
-1. Navigate to the `ui` directory inside the project.
+1. Navigate to the `UI` directory inside the project.
 
 2. Install the required Node.js packages:
 
